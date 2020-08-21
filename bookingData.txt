@@ -1,1 +1,0 @@
-['CTS675513', ['r', '4', {'start': 'Chandigarh', 'end': 'Delhi', 'fare': 600, 'time': '03:00 PM', 'key': 'b002'}, 2400, 4]]
